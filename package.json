@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ogrdiota.lwc-kt2pvd69-fork-kt2qij9k",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve m9UsqOTOVLby96934spq --open"
+  }
+}
